@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">InkKey</string>
+    <string name="ime_name">InkKey Keyboard</string>
+    <string name="subtype_en_us">English (US)</string>
+    <string name="tagline">Type at digital speed. Keep the character of your handwriting.</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_capture">Capture</string>
+    <string name="nav_font">Font Studio</string>
+    <string name="nav_export">Handwriting Studio</string>
+    <string name="nav_settings">Settings</string>
+</resources>

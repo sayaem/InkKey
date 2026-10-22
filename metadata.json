@@ -1,0 +1,6 @@
+{
+  "name": "InkKey",
+  "description": "Personal handwriting keyboard and font studio. Offline-first handwriting font creation, everyday Android IME typing, and high-fidelity handwriting export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
